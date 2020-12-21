@@ -1,0 +1,8 @@
+{
+  "name": "Lab1CG",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "three": "^0.123.0"
+  }
+}
